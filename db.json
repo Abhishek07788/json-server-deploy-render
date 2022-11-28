@@ -1,0 +1,13 @@
+{
+    "posts": [
+      {
+        "name": "ABHISHEK SOLANKI",
+        "employee_id": "1234",
+        "department": "Finance",
+        "experience": "2",
+        "email": "a@123",
+        "mobile": "3456454",
+        "id": 1
+      }
+    ]
+  }

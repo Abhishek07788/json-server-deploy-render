@@ -12,6 +12,29 @@
     ],
     "tasks": [
     ],
+     "users": [
+    {
+      "avatar": "https://i.pravatar.cc/300",
+      "fullname": "Thakur",
+      "email": "abhisheksolanki1020@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "avatar": "https://i.pravatar.cc/300",
+      "fullname": "Abhi",
+      "email": "abhisheksolanki10@gmail.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "avatar": "https://i.pravatar.cc/300",
+      "fullname": "Abhi",
+      "email": "abhishek@gmail.com",
+      "password": "12345678",
+      "id": 3
+    }
+  ],
     "post": [
     {
       "gif": "https://media2.giphy.com/media/3o6Zt481isNVuQI1l6/giphy-downsized.gif?cid=0a14631bboh6nv9luo6o6uviee5o0n7ckk8lvg77copdd69q&rid=giphy-downsized.gif&ct=g",
